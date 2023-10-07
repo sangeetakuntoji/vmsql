@@ -1,4 +1,4 @@
-name: 'Terraform_vm-Infra1'
+name: 'Terraform_vm-Infra'
  
 on:
   push:
